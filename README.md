@@ -14,6 +14,8 @@
 
 🔥 I’m driven by a passion for building solutions that empower businesses to grow and evolve, and I’m excited to continue pushing the boundaries of what’s possible.
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
