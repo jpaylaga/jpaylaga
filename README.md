@@ -1,4 +1,4 @@
-# **🌟 Joshua Paylaga 🌟**
+# **🌟 Joshua Paylaga**
 
 > ### *☕️ I turn coffee into code 💻*
 
