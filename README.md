@@ -16,6 +16,7 @@ I own the platform end to end: architecture, APIs, database operations, deployme
 
 <br clear="all" />
 <br />
+<br />
 
 <img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="45%" />
 
@@ -25,6 +26,7 @@ That is the daily load on the transaction platform I own: tickets, payouts, canc
 
 <br clear="all" />
 <br />
+<br />
 
 <img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="45%" />
 
@@ -33,6 +35,7 @@ That is the daily load on the transaction platform I own: tickets, payouts, canc
 I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda, with Middy, Lesgo, and API Gateway. The hard part is not the rewrite. It is matching every status code, header, and JSON body exactly so existing clients never notice. I treat that contract as the spec.
 
 <br clear="all" />
+<br />
 <br />
 
 <img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="45%" />
