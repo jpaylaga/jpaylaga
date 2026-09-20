@@ -15,6 +15,7 @@ I am a backend engineer at a company in the gaming industry. I am not naming the
 I own the platform end to end: architecture, APIs, database operations, deployments, production support, and the documentation that holds it all together. Beyond the code, I manage the IT staff and the product team, and at times the agents on the ground. Here are three highlights from that work, each with numbers to back it up.
 
 <br clear="all" />
+<br />
 
 <img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="45%" />
 
@@ -23,6 +24,7 @@ I own the platform end to end: architecture, APIs, database operations, deployme
 That is the daily load on the transaction platform I own: tickets, payouts, cancellations, reporting, and the APIs that thousands of teller devices call. It has to be fast, it has to be correct, and it has to stay up. It does all three.
 
 <br clear="all" />
+<br />
 
 <img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="45%" />
 
@@ -31,6 +33,7 @@ That is the daily load on the transaction platform I own: tickets, payouts, canc
 I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda, with Middy, Lesgo, and API Gateway. The hard part is not the rewrite. It is matching every status code, header, and JSON body exactly so existing clients never notice. I treat that contract as the spec.
 
 <br clear="all" />
+<br />
 
 <img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="45%" />
 
@@ -99,7 +102,3 @@ I founded [Mabizza IT Solutions](https://mabizza.biz), a software agency, and de
   <img alt="Vue" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
-
-## Let's talk
-
-I am open to senior backend roles, remote or onsite. Portfolio: *link when the site is live*
