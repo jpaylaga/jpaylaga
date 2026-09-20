@@ -1,75 +1,141 @@
-# **🌟 Joshua Paylaga**
+<img src="assets/banner.webp" alt="Joshua Paylaga, backend engineer, with a stream of requests resolving into ordered infrastructure" width="100%" />
 
-> ### *☕️ I turn coffee into code 💻*
+# Joshua Paylaga
 
-💻 With over a decade of experience in software engineering, I’ve built a career around solving complex problems and delivering impactful solutions. My journey began during my college years (2011–2014) as a freelance web developer, where I crafted custom websites and applications for clients. Since transitioning into corporate roles in 2014, I’ve steadily grown into leadership positions, guiding teams and driving projects that create meaningful business outcomes.
+**Senior backend engineer. I build the systems that have to be fast, correct, and up every operating hour, with real money on the line.**
 
-🚀 Currently, I lead **Mabizza IT Solutions** ([mabizza.biz](https://mabizza.biz)), a software agency dedicated to delivering innovative technology solutions tailored to diverse business needs. Through this venture, I continue to design and implement scalable, high-performance systems that empower businesses to grow and adapt in a rapidly evolving digital landscape.
+I have written software for a living since 2011 and worked in engineering roles since 2014. Backend is my home: APIs, databases, queues, and the AWS infrastructure that holds them up. I like transactions that are correct, API contracts that stay stable, and improvements that show up in production graphs, not just in slide decks.
 
-🔍 Most recently, I focused on improving **search efficiency** at **[Incube8](https://www.incube8.sg/)**, where I optimized search systems to deliver faster, more accurate results—enhancing user experience and overall system performance. Prior to that, I led the automation of manual processes in the **local gaming industry** with **Grand Gaming Group**, pioneering technology that streamlined Small-Town Lottery operations and transformed local business workflows. Earlier in my career, I developed and maintained complex **CRM integration platforms** at **[Cazoomi](https://www.cazoomi.com/)**, enabling seamless connections between CRMs and marketing tools, saving clients valuable time and improving business efficiency.
+## Current role
 
-🛠️ Technically, I bring deep expertise in **AWS** and **serverless architecture**, building scalable and efficient cloud-native solutions. I am proficient in **Node.js**, **TypeScript**, **PHP**, **Java**, and frameworks like **Laravel**, **Vue**, and **React**. My database skills include **MySQL**, **PostgreSQL**, and **MongoDB**, ensuring robust and reliable data handling for high-traffic systems. I also contributed to the open-source **Lesgo Serverless Framework**, reflecting my commitment to advancing cloud-based development.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-🤝 Beyond technology, I excel in leading high-performing teams, fostering collaboration, and delivering mission-critical projects on time and within scope. Every challenge is an opportunity to innovate, and every project is a chance to create lasting impact.
+I am a backend engineer at a company in the gaming industry. I am not naming the company here yet, but the work speaks for itself.
 
-🔥 I’m driven by a passion for building solutions that empower businesses to grow and evolve, and I’m excited to continue pushing the boundaries of what’s possible.
+I own the platform end to end: architecture, APIs, database operations, deployments, production support, and the documentation that holds it all together. Beyond the code, I manage the IT staff and the product team, and at times the agents on the ground. Here are three highlights from that work, each with numbers to back it up.
 
----
+</td>
+<td width="45%" valign="top">
 
-### 🧰 Languages and Tools
+<img src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="100%" />
 
-<!-- AWS -->
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</td>
+</tr>
+</table>
 
-<!-- Bash -->
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<table>
+<tr>
+<td width="45%" valign="top">
 
-<!-- Docker -->
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="100%" />
 
-<!-- Git -->
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</td>
+<td width="55%" valign="top">
 
-<!-- GitHub -->
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### 4 million requests a day
 
-<!-- HTML -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+That is the daily load on the transaction platform I own: tickets, payouts, cancellations, reporting, and the APIs that thousands of teller devices call. It has to be fast, it has to be correct, and it has to stay up. It does all three.
 
-<!-- Java -->
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+</td>
+</tr>
+</table>
 
-<!-- JavaScript -->
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<!-- Laravel -->
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+### Laravel to AWS Lambda, with zero client changes
 
-<!-- Linux -->
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda, with Middy, Lesgo, and API Gateway. The hard part is not the rewrite. It is matching every status code, header, and JSON body exactly so existing clients never notice. I treat that contract as the spec.
 
-<!-- MongoDB -->
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</td>
+<td width="45%" valign="top">
 
-<!-- MySQL -->
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="100%" />
 
-<!-- NodeJS -->
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</td>
+</tr>
+</table>
 
-<!-- OpenSearch -->
-<img align="left" alt="ElasticSearch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-plain.svg" />
+<table>
+<tr>
+<td width="45%" valign="top">
 
-<!-- PHP -->
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="100%" />
 
-<!-- PostgreSQL -->
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+</td>
+<td width="55%" valign="top">
 
-<!-- React -->
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+### 68% less database capacity
 
-<!-- TypeScript -->
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+Combined Aurora Serverless v2 capacity use (ACU) across several production environments dropped by about 68% in a measured comparison after application and database changes. Along the way I found a DocumentDB dependency the applications did not need and removed it. Every change was validated against real traffic before I deleted a single resource. I like savings I can prove.
 
-<br />
+</td>
+</tr>
+</table>
+
+## Earlier work
+
+### <img src="assets/incube8.png" height="22" alt="" /> Search performance at [Incube8](https://www.incube8.sg/)
+
+Remote work with Incube8, the Singapore engineering team behind Seeking.com. I made search faster and more accurate for a large consumer platform.
+
+### <img src="assets/cazoomi.png" height="22" alt="" /> CRM integrations at [Cazoomi](https://www.cazoomi.com/)
+
+Cazoomi is a SaaS company whose SyncApps platform connects CRMs to marketing and finance tools. I built and maintained the integration platforms that moved data between systems like these, saving clients hours of manual work:
+
+<p>
+  <img alt="Salesforce" height="32" src="assets/salesforce.svg" />&nbsp;
+  <img alt="NetSuite" height="32" src="assets/netsuite.png" />&nbsp;
+  <img alt="HubSpot" height="32" src="assets/hubspot.svg" />&nbsp;
+  <img alt="Mailchimp" height="32" src="assets/mailchimp.svg" />&nbsp;
+  <img alt="Zoho" height="32" src="assets/zoho.svg" />&nbsp;
+  <img alt="QuickBooks" height="32" src="assets/quickbooks.svg" />
+</p>
+
+### Other roles
+
+I founded [Mabizza IT Solutions](https://mabizza.biz), a software agency, and designed and expanded systems for clients. I have also contributed to the open source Lesgo serverless framework.
+
+## What I bring
+
+- Backend depth beyond CRUD: transactions, queues, caching, concurrency, and the ways production systems fail
+- Hands on AWS: design, operation, migration, and cost work on live systems
+- Legacy modernization without breaking existing clients
+- Documentation that engineers, operators, and executives can each read
+- Leadership and client experience that makes my engineering decisions better, not a reason to stop writing code
+
+## Stack
+
+**Backend:** TypeScript, Node.js, PHP (Laravel, CodeIgniter)
+
+**AWS:** Lambda, API Gateway, EC2, Aurora MySQL, Aurora Serverless v2, RDS Proxy, SQS, ElastiCache, DocumentDB, Cognito, S3
+
+**Data:** MySQL, PostgreSQL, Redis, MongoDB
+
+**Operations:** Linux, Nginx, Docker
+
+**Frontend (secondary):** Vue, React
+
+<p>
+  <img alt="AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="TypeScript" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="Laravel" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+  <img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="PostgreSQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Redis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="MongoDB" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Linux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img alt="Nginx" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+  <img alt="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Vue" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="React" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</p>
+
+## Let's talk
+
+I am open to senior backend roles, remote or onsite. Portfolio: *link when the site is live*
