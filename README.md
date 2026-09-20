@@ -4,15 +4,27 @@
 
 **Senior backend engineer. I build the systems that have to be fast, correct, and up every operating hour, with real money on the line.**
 
+<div align="justify">
+
 I have written software for a living since 2011 and worked in engineering roles since 2014. Backend is my home: APIs, databases, queues, and the AWS infrastructure that holds them up. I like transactions that are correct, API contracts that stay stable, and improvements that show up in production graphs, not just in slide decks.
+
+</div>
 
 ## Current role
 
 <img align="right" src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="45%" />
 
+<div align="justify">
+
 I am a backend engineer at a company in the gaming industry. I am not naming the company here yet, but the work speaks for itself.
 
+</div>
+
+<div align="justify">
+
 I own the platform end to end: architecture, APIs, database operations, deployments, production support, and the documentation that holds it all together. Beyond the code, I manage the IT staff and the product team, and at times the agents on the ground. Here are three highlights from that work, each with numbers to back it up.
+
+</div>
 
 <br clear="all" />
 <br />
@@ -22,7 +34,11 @@ I own the platform end to end: architecture, APIs, database operations, deployme
 
 ### 4 million requests a day
 
+<div align="justify">
+
 That is the daily load on the transaction platform I own: tickets, payouts, cancellations, reporting, and the APIs that thousands of teller devices call. It has to be fast, it has to be correct, and it has to stay up. It does all three.
+
+</div>
 
 <br clear="all" />
 <br />
@@ -32,7 +48,11 @@ That is the daily load on the transaction platform I own: tickets, payouts, canc
 
 ### Laravel to AWS Lambda, with zero client changes
 
+<div align="justify">
+
 I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda, with Middy, Lesgo, and API Gateway. The hard part is not the rewrite. It is matching every status code, header, and JSON body exactly so existing clients never notice. I treat that contract as the spec.
+
+</div>
 
 <br clear="all" />
 <br />
@@ -42,7 +62,11 @@ I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda,
 
 ### 68% less database capacity
 
+<div align="justify">
+
 Combined Aurora Serverless v2 capacity use (ACU) across several production environments dropped by about 68% in a measured comparison after application and database changes. Along the way I found a DocumentDB dependency the applications did not need and removed it. Every change was validated against real traffic before I deleted a single resource. I like savings I can prove.
+
+</div>
 
 <br clear="all" />
 
@@ -50,11 +74,19 @@ Combined Aurora Serverless v2 capacity use (ACU) across several production envir
 
 ### <img src="assets/incube8.png" height="22" alt="" /> Search performance at [Incube8](https://www.incube8.sg/)
 
+<div align="justify">
+
 Remote work with Incube8, the Singapore engineering team behind Seeking.com. I made search faster and more accurate for a large consumer platform.
+
+</div>
 
 ### <img src="assets/cazoomi.png" height="22" alt="" /> CRM integrations at [Cazoomi](https://www.cazoomi.com/)
 
+<div align="justify">
+
 Cazoomi is a SaaS company whose SyncApps platform connects CRMs to marketing and finance tools. I built and maintained the integration platforms that moved data between systems like these, saving clients hours of manual work:
+
+</div>
 
 <p>
   <img alt="Salesforce" height="32" src="assets/salesforce.svg" />&nbsp;
@@ -67,7 +99,11 @@ Cazoomi is a SaaS company whose SyncApps platform connects CRMs to marketing and
 
 ### Other roles
 
+<div align="justify">
+
 I founded [Mabizza IT Solutions](https://mabizza.biz), a software agency, and designed and expanded systems for clients. I have also contributed to the open source Lesgo serverless framework.
+
+</div>
 
 ## What I bring
 
