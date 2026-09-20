@@ -12,61 +12,41 @@ I have written software for a living since 2011 and worked in engineering roles 
 
 ## Current role
 
-<img align="right" src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="45%" />
-
-<div align="justify">
+<img align="right" src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="45%" hspace="24" />
 
 I am a backend engineer at a company in the gaming industry. I am not naming the company here yet, but the work speaks for itself.
 
-</div>
-
-<div align="justify">
-
 I own the platform end to end: architecture, APIs, database operations, deployments, production support, and the documentation that holds it all together. Beyond the code, I manage the IT staff and the product team, and at times the agents on the ground. Here are three highlights from that work, each with numbers to back it up.
-
-</div>
 
 <br clear="all" />
 <br />
 <br />
 
-<img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="45%" />
+<img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="45%" hspace="24" />
 
 ### 4 million requests a day
 
-<div align="justify">
-
 That is the daily load on the transaction platform I own: tickets, payouts, cancellations, reporting, and the APIs that thousands of teller devices call. It has to be fast, it has to be correct, and it has to stay up. It does all three.
-
-</div>
 
 <br clear="all" />
 <br />
 <br />
 
-<img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="45%" />
+<img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="45%" hspace="24" />
 
 ### Laravel to AWS Lambda, with zero client changes
 
-<div align="justify">
-
 I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda, with Middy, Lesgo, and API Gateway. The hard part is not the rewrite. It is matching every status code, header, and JSON body exactly so existing clients never notice. I treat that contract as the spec.
-
-</div>
 
 <br clear="all" />
 <br />
 <br />
 
-<img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="45%" />
+<img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="45%" hspace="24" />
 
 ### 68% less database capacity
 
-<div align="justify">
-
 Combined Aurora Serverless v2 capacity use (ACU) across several production environments dropped by about 68% in a measured comparison after application and database changes. Along the way I found a DocumentDB dependency the applications did not need and removed it. Every change was validated against real traffic before I deleted a single resource. I like savings I can prove.
-
-</div>
 
 <br clear="all" />
 
