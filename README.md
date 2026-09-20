@@ -12,7 +12,7 @@ I have written software for a living since 2011 and worked in engineering roles 
 
 ## Current role
 
-<img align="right" src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="45%" hspace="24" />
+<img align="right" src="assets/current-role.webp" alt="Joshua at his desk in front of a holographic backend architecture diagram" width="38%" hspace="24" />
 
 I am a backend engineer at a company in the gaming industry. I am not naming the company here yet, but the work speaks for itself.
 
@@ -22,7 +22,7 @@ I own the platform end to end: architecture, APIs, database operations, deployme
 <br />
 <br />
 
-<img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="45%" hspace="24" />
+<img align="left" src="assets/four-million-requests.webp" alt="A dense stream of request particles passing through processing layers into an ordered database" width="38%" hspace="24" />
 
 ### 4 million requests a day
 
@@ -32,7 +32,7 @@ That is the daily load on the transaction platform I own: tickets, payouts, canc
 <br />
 <br />
 
-<img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="45%" hspace="24" />
+<img align="right" src="assets/laravel-to-lambda.webp" alt="A Laravel server stack migrating into Lambda functions in the cloud" width="38%" hspace="24" />
 
 ### Laravel to AWS Lambda, with zero client changes
 
@@ -42,7 +42,7 @@ I am moving selected Laravel API endpoints from EC2 to TypeScript on AWS Lambda,
 <br />
 <br />
 
-<img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="45%" hspace="24" />
+<img align="left" src="assets/database-capacity-reduction.webp" alt="A large database shrinking into a much smaller one" width="38%" hspace="24" />
 
 ### 68% less database capacity
 
